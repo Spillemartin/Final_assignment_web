@@ -12,7 +12,7 @@ body{
 
 .navbox{
     float: left;
-    width: 33%;
+    width: 33.33%;
     border-color: black;
     border-bottom-style: solid;
     background-color: antiquewhite;
@@ -30,4 +30,8 @@ body{
     display: block;
     padding-top: 5%;
     padding-bottom: 5%;
+    font-family: "Arial", Arial;
+}
+.content img{
+    width:100%;
 }
