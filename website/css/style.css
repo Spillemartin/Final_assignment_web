@@ -7,7 +7,8 @@ body{
 .top{
     width: 100%;
     text-align: center;
-    position: fixed;
+    overflow: hidden;
+    top: 0;
 }
 
 .navbox{
@@ -15,11 +16,12 @@ body{
     width: 33.33%;
     border-color: black;
     border-bottom-style: solid;
-    background-color: antiquewhite;
+    background-color: #9FFB9F;
+    margin-bottom: 5%;
 }
 
 .navbox:hover a:hover{
-    background-color: bisque;
+    background-color: #70F970;
 }
 
 .nav a{
@@ -34,4 +36,41 @@ body{
 }
 .content img{
     width:100%;
+}
+
+.content{
+    width: 100%;
+    margin: auto;
+}
+
+.content .box {
+    width: 80%;
+    float: left;
+    padding: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    background-color: #9FFB9F;
+}
+
+.content p{
+    font-size: 20px;
+    font-family: "Arial", Arial;
+}
+
+.content .about{
+    width: 40%;
+    float:left;
+    padding: 2%;
+    margin: 3%;
+    background-color: #9FFB9F;
+}
+
+.content .about p{
+    font-size: 20px;
+    text-align: left;
+    float: left;
+}
+
+.about h1{
+    text-align: center;
 }
