@@ -50,11 +50,13 @@ body{
     margin-left: 8%;
     margin-right: 8%;
     background-color: #9FFB9F;
+    text-align: center;
 }
 
 .content p{
     font-size: 20px;
     font-family: "Arial", Arial;
+    text-align: left;
 }
 
 .content .about{
@@ -74,4 +76,22 @@ body{
 .about h1{
     text-align: center;
     font-family: "Arial", Arial;
+}
+
+h2 {
+    font-family: "Arial", Arial;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Arial", Arial;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Arial", Arial;
+    font-size: 18px;
 }
