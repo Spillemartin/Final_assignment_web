@@ -67,6 +67,13 @@ body{
     margin: 3%;
     background-color: #9FFB9F;
 }
+.content .aboutBig{
+    width:80%;
+    float: left;
+    padding: 2%;
+    margin: 3%;
+    background-color: #9FFB9F;
+}
 
 .content .about p{
     font-size: 20px;
