@@ -87,6 +87,10 @@ body{
 >>>>>>> css
 }
 
+h1 {
+    font-family: "Arial", Arial;
+}
+
 h2 {
     font-family: "Arial", Arial;
     text-align: center;
@@ -105,5 +109,8 @@ li {
     font-size: 18px;
 }
 
+hr{
+    border: 1px black;
+}
 
 #E1FDE1 grønn bg;
