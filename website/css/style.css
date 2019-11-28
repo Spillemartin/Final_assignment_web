@@ -94,6 +94,7 @@ h1 {
 h2 {
     font-family: "Arial", Arial;
     text-align: center;
+    text-decoration: underline black;
 }
 
 h3 {
