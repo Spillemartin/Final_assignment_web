@@ -37,6 +37,7 @@ body{
 }
 .content img{
     width:100%;
+    border-radius: 15px;
 }
 
 .content{
@@ -52,6 +53,7 @@ body{
     margin-right: 8%;
     background-color: #9FFB9F;
     text-align: center;
+    border-radius: 50px;
 }
 
 .content p{
@@ -66,7 +68,9 @@ body{
     padding: 2%;
     margin: 3%;
     background-color: #9FFB9F;
+    border-radius: 15px;
 }
+
 
 .content .about p{
     font-size: 20px;
@@ -86,9 +90,14 @@ body{
 >>>>>>> css
 }
 
+h1 {
+    font-family: "Arial", Arial;
+}
+
 h2 {
     font-family: "Arial", Arial;
     text-align: center;
+    text-decoration: underline black;
 }
 
 h3 {
@@ -104,5 +113,8 @@ li {
     font-size: 18px;
 }
 
+hr{
+    border: 1px black;
+}
 
 #E1FDE1 grønn bg;
