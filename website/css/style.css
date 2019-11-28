@@ -2,6 +2,7 @@ body{
     width:100%;
     margin: 0;
     padding: 0;
+    background-color: #E1FDE1;
 }
 
 .top{
@@ -102,3 +103,6 @@ li {
     font-family: "Arial", Arial;
     font-size: 18px;
 }
+
+
+#E1FDE1 grønn bg;
