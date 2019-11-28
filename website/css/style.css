@@ -118,4 +118,8 @@ hr{
     border: 1px black;
 }
 
+.active{
+    background-color:  #70F970;
+}
+
 #E1FDE1 grønn bg;
